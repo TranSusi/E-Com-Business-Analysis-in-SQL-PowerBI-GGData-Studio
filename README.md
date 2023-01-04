@@ -50,7 +50,7 @@ group by 1,2) a
 group by 1;
 
 ```
-Output: (link)
+
  
 
 d. Calculate average orders per year
@@ -138,9 +138,7 @@ Output (link)
 
 
 ### Visualize result using Data Studio 
-- Link 1:
 
-- Link 2:
 
 •	A significant increase in 2017 because the data available in 2016 was only for the last 4 months, starting in September. Therefore, there could be only an increase in growth in 2017.
 •	Meanwhile, the trend of Monthly Active Users (MAU) also increases every year, reaching 5,338 customers.
